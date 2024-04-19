@@ -1,0 +1,22 @@
+.chat-bubble{
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 10px;
+    padding: 5px;
+}
+.user-name{
+    font-weight: bold;
+}
+.chat-bubble__left{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+}
+p{
+    margin: 0px;
+}
+.right{
+    justify-content: right;
+}

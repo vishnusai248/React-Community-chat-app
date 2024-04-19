@@ -1,0 +1,9 @@
+.welcome{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100dvw;
+    background:radial-gradient(circle, rgba(174,238,218,1) 0%, rgba(148,187,233,1) 100%);
+}
